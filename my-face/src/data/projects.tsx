@@ -1,4 +1,4 @@
-export const projects: project[] = [
+export const projects: Project[]= [
   {
     title: "Quantbabe",
     description: "A quantitative analysis platform",

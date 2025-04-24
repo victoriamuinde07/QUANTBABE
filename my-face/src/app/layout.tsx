@@ -6,7 +6,7 @@ import "./globals.css";
 
 // Metadata specific to your portfolio
 export const metadata: Metadata = {
-  title: "Victoria Muinde - QuantumBabe"
+  title: "Victoria Muinde - QuantumBabe",
   description: "Portfolio website for Victoria Muinde, a Full Stack Developer specializing in modern web applications, AI, and data.", // Updated Description
   // You can add more metadata here like keywords, open graph tags, etc.
 };
