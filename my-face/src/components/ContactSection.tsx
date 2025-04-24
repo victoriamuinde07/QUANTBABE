@@ -15,7 +15,7 @@ export default function ContactSection() {
           Feel free to reach out if you have a project in mind, want to connect, or just say hi!
         </p>
         <a
-          href="victoriamuinde07@gmail.com"
+          href="mailto:victoriamuinde07@gmail.com"
           className="inline-block bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 rounded transition duration-200 mb-8"
         >
           Say Hello (Email Me)
