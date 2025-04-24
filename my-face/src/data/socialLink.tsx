@@ -1,5 +1,5 @@
 // src/data/socialLinks.ts
-import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa'; // Example icons
+import { FaGithub, FaLinkedin } from 'react-icons/fa'; // Example icons
 
 // Define the type for a social link (optional but good practice)
 export interface SocialLink {
