@@ -12,12 +12,12 @@ export interface SocialLink {
 export const socialLinks: SocialLink[] = [
   {
     name: 'GitHub',
-    url: 'https://github.com/your-username', // <-- Replace with your URL
+    url: 'https://github.com/victoriamuinde07',
     icon: FaGithub
   },
   {
     name: 'LinkedIn',
-    url: 'https://linkedin.com/in/your-profile', // <-- Replace with your URL
+    url: 'https://www.linkedin.com/in/victoria-muinde-2b80a132a/',
     icon: FaLinkedin
   },
   // Add other links...

@@ -14,7 +14,7 @@ export default function Home() {
           Victoria Muinde
         </h1>
         <p className="mt-4 text-xl text-gray-700 dark:text-gray-300">
-          Full Stack Developer | Data Enthusiast
+          Data Scientist | AI/Ml Engineer
         </p>
         {/* Optional: Add a call-to-action button, e.g., linking to contact */}
         <a href="#contact" className="mt-6 inline-block bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 rounded transition duration-200">

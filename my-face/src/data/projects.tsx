@@ -11,17 +11,17 @@ export interface Project {
 // Use the defined Project type for the array
 export const projects: Project[] = [
   {
-    title: "Quantbabe",
-    description: "A quantitative analysis platform",
-    link: "https://github.com/victoriamuinde07/QUANTBABE.git",
-    tags: ["React", "TypeScript", "Python", "Django", "Javascript"]
+    title: "Riaor Restauarant website",
+    description: "Fun to go website project",
+    link: "https://github.com/victoriamuinde07/Riaor-restaurant.git",
+    tags: ["HTML","CSS","sass","bootstrap"]
   },
   {
-    title: "Portfolio",
-    description: "My developer portfolio website", // Description updated slightly
+    title: "AI-Powered Complaint Management System",
+    description: "This is a AI-powered customer complaint management system that allows customers to lodge in finacial complaints and the trained NLP model gives the right complaint categorization",
     // Consider updating this link if your portfolio has its own repo/URL
-    link: "https://github.com/victoriamuinde07/my-face", // Example: Link to this repo
-    tags: ["Next.js", "Tailwind CSS", "TypeScript"] // Added TypeScript tag
+    link: "https://github.com/victoriamuinde07/AI-Complaint-Management-System.git",
+    tags: ["python","SQLAlchemy","Machine Learning Algorithms"]
   }
   // Add more projects here if needed
 ];
