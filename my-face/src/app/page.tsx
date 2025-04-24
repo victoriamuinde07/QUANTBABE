@@ -1,5 +1,5 @@
 // src/app/page.tsx
-import Layout from '@/components/Layout';
+import Layout from '@/components/layout';
 import AboutSection from '@/components/AboutSection'; // Corrected import path
 import ProjectsSection from '@/components/ProjectsSection'; // Corrected import path
 import ContactSection from '@/components/ContactSection'; // Corrected import path

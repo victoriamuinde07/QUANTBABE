@@ -1,6 +1,6 @@
 // src/components/ContactSection.tsx
 import Link from 'next/link'; // If using Next.js Link for internal links, otherwise use <a>
-import { socialLinks } from '@/data/socialLinks'; // Assuming you have social links defined elsewhere
+import{  socialLinks }from'@/data/socialLink';
 
 export default function ContactSection() {
   return (

@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { SOCIAL_LINKS } from '@/constants/social-links';
+import { socialLinks } from '@/data/socialLink';
 
 export default function Footer() {
   return (
@@ -9,7 +9,7 @@ export default function Footer() {
           © {new Date().getFullYear()} Victoria Muinde. All rights reserved.
         </div>
         <div className="flex justify-center gap-4">
-          {SOCIAL_LINKS.map((link) => (
+          {socialLinks.map((link) => (
             <Link
               key={link.name}
               href={link.url}
