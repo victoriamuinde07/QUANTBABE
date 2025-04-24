@@ -9,7 +9,7 @@ export default function ThemeToggle() {
   }, [darkMode]);
   return (
     <button
-      arial-lable={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}
+      arial-label={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}
       onClick={() => setDarkMode(!darkMode)}
       className="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700"
     >
