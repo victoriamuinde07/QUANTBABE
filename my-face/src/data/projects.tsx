@@ -23,5 +23,11 @@ export const projects: Project[] = [
     link: "https://huggingface.co/spaces/d9lph8n/AI.Poweredcomplaint_management_system",
     tags: ["python","SQLAlchemy","Machine Learning Algorithms"]
   }
+  {
+    title: "Customer-Churn predictor Project",
+    description: "The project focuses on predicting the likelyhood for customer to churn.By understanding the patterns,telcom compabies such as SyriaTel can proactively enhance customer retention strategies, improve customer satisfaction and reduce financial losses",
+    link: "https://github.com/victoriamuinde07/Data-science-project-SyrialTel-project.git",
+    tags: ["Data analysis","Machine Learning"]
+  }
   // Add more projects here if needed
 ];
