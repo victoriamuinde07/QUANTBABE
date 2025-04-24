@@ -20,7 +20,7 @@ export const projects: Project[] = [
     title: "AI-Powered Complaint Management System",
     description: "This is a AI-powered customer complaint management system that allows customers to lodge in finacial complaints and the trained NLP model gives the right complaint categorization",
     // Consider updating this link if your portfolio has its own repo/URL
-    link: "https://github.com/victoriamuinde07/AI-Complaint-Management-System.git",
+    link: "https://huggingface.co/spaces/d9lph8n/AI.Poweredcomplaint_management_system",
     tags: ["python","SQLAlchemy","Machine Learning Algorithms"]
   }
   // Add more projects here if needed
