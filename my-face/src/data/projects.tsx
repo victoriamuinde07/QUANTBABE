@@ -35,6 +35,12 @@ export const projects: Project[] = [
     description: "The project focuses on predicting the likelyhood for customer to churn.By understanding the patterns,telcom companies such as SyriaTel can proactively enhance customer retention strategies, improve customer satisfaction and reduce financial losses",
     link: "https://github.com/victoriamuinde07/Data-science-project-SyrialTel-project.git",
     tags: ["Data analysis","Machine Learning"]
+  },
+  {
+    title:"Riaor Task",
+    description: "Riaor Reminder is a web-based productivity tool designed to help users manage their tasks and notes effectively. It features a dynamic to-do list with capabilities for adding, editing, and deleting tasks, as well as filtering them by status (all, active, completed). Users can set specific alarm times for tasks, triggering browser notifications and placeholder email reminders to ensure deadlines are met.",
+    link: "https://task-reminder-app-xi.vercel.app/",
+    tags: ["Vue.js","Firebase"]
   }
   // Add more projects here if needed
 ];
